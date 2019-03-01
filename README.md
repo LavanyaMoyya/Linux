@@ -40,7 +40,11 @@ Take a baseline installation of a Linux distribution on a virtual machine and pr
 sudo apt-get update
 sudo apt-get upgrade
 
-Trying to run these commands wont install packages kept back,then use 'sudo apt-get dist-upgrade' 
+Trying to run these commands wont install packages kept back,then use 
+
+sudo apt-get dist-upgrade
+
+allows you to install new packages when needed 
 ```
 
 
